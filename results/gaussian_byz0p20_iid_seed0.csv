@@ -1,0 +1,4 @@
+attack,byzantine_fraction,num_clients,partition,alpha,seed,round,loss,accuracy
+gaussian,0.2,10,iid,0.5,0,0,2.303498,0.1138
+gaussian,0.2,10,iid,0.5,0,1,34.253086,0.1098
+gaussian,0.2,10,iid,0.5,0,2,5.339416,0.0973

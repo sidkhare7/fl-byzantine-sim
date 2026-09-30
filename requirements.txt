@@ -1,0 +1,8 @@
+# Verified on macOS 15 (arm64), Python 3.12.4, CPU only.
+# Install with:  pip install -r requirements.txt
+
+flwr[simulation]==1.38.0
+ray==2.55.1
+torch==2.14.0
+torchvision==0.29.0
+numpy==2.5.3

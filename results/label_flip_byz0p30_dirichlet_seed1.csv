@@ -1,0 +1,4 @@
+attack,byzantine_fraction,num_clients,partition,alpha,seed,round,loss,accuracy
+label_flip,0.3,10,dirichlet,0.5,1,0,2.310591,0.0922
+label_flip,0.3,10,dirichlet,0.5,1,1,1.983995,0.2575
+label_flip,0.3,10,dirichlet,0.5,1,2,1.730049,0.3578
